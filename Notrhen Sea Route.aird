@@ -8,26 +8,26 @@
     </ownedViews>
     <ownedViews xmi:type="viewpoint:DView" uid="_WpwpQMfzEfG7-eYFHVKRJA">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/common.odesign#//@ownedViewpoints[name='Common']"/>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_v3m9oNUsEfG8D6YGcKhAQQ" name="[ES-1] SC-1 Provide remote medical care to the ship" repPath="#_v3b-gNUsEfG8D6YGcKhAQQ" changeId="1793532778343">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_v3m9oNUsEfG8D6YGcKhAQQ" name="[ES-1] SC-1 Provide remote medical care to the ship" repPath="#_v3b-gNUsEfG8D6YGcKhAQQ" changeId="1794100983436">
         <description xmi:type="description_1:SequenceDiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/common.odesign#//@ownedViewpoints[name='Common']/@ownedRepresentations[name='Component%20Exchanges%20Scenario']"/>
         <target xmi:type="org.polarsys.capella.core.data.interaction:Scenario" href="Notrhen%20Sea%20Route.capella#39036f4e-35a7-4cd2-9e64-709a901f22d1"/>
       </ownedRepresentationDescriptors>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_EoT7cNXoEfG8D6YGcKhAQQ" name="[ES-2] SC-3 Evacuate patient directrly from the ship" repPath="#_EoQRENXoEfG8D6YGcKhAQQ" changeId="1793535614600">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_EoT7cNXoEfG8D6YGcKhAQQ" name="[ES-2] SC-3 Evacuate patient directrly from the ship" repPath="#_EoQRENXoEfG8D6YGcKhAQQ" changeId="1794101164274">
         <description xmi:type="description_1:SequenceDiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/common.odesign#//@ownedViewpoints[name='Common']/@ownedRepresentations[name='Component%20Exchanges%20Scenario']"/>
         <target xmi:type="org.polarsys.capella.core.data.interaction:Scenario" href="Notrhen%20Sea%20Route.capella#843003bd-af9a-4319-a958-59dfe2370787"/>
       </ownedRepresentationDescriptors>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_qSUa8NXuEfG8D6YGcKhAQQ" name="[ES-3] SC-4 Evacuate a patient through an icebreaker" repPath="#_qSR-sNXuEfG8D6YGcKhAQQ" changeId="1793536831413">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_qSUa8NXuEfG8D6YGcKhAQQ" name="[ES-3] SC-4 Evacuate a patient through an icebreaker" repPath="#_qSR-sNXuEfG8D6YGcKhAQQ" changeId="1794101172448">
         <description xmi:type="description_1:SequenceDiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/common.odesign#//@ownedViewpoints[name='Common']/@ownedRepresentations[name='Component%20Exchanges%20Scenario']"/>
         <target xmi:type="org.polarsys.capella.core.data.interaction:Scenario" href="Notrhen%20Sea%20Route.capella#065b6fc5-21f5-4ce7-a470-bdd39456c963"/>
       </ownedRepresentationDescriptors>
     </ownedViews>
     <ownedViews xmi:type="viewpoint:DView" uid="_WynDQMfzEfG7-eYFHVKRJA">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']"/>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_op144NX8EfG8D6YGcKhAQQ" name="[LCBD] Structure" repPath="#_opmBQNX8EfG8D6YGcKhAQQ" changeId="1793542780246">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_op144NX8EfG8D6YGcKhAQQ" name="[LCBD] Structure" repPath="#_opmBQNX8EfG8D6YGcKhAQQ" changeId="1794068547587">
         <description xmi:type="description_2:DiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']"/>
         <target xmi:type="org.polarsys.capella.core.data.la:LogicalComponentPkg" href="Notrhen%20Sea%20Route.capella#0e0f06b5-237b-4584-b9f7-24895c8b8bd0"/>
       </ownedRepresentationDescriptors>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_qXdw8NX_EfG8D6YGcKhAQQ" name="[LAB] Structure" repPath="#_qXV1INX_EfG8D6YGcKhAQQ" changeId="1793554619893">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_qXdw8NX_EfG8D6YGcKhAQQ" name="[LAB] Structure" repPath="#_qXV1INX_EfG8D6YGcKhAQQ" changeId="1794067668581">
         <eAnnotations xmi:type="description:DAnnotation" uid="_qX5OwNX_EfG8D6YGcKhAQQ" source="https://www.polarsys.org/capella/dannotation/DesactivatedFilters">
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_qX7D8NX_EfG8D6YGcKhAQQ" key="hide.computed.component.exchanges.filter" value="true"/>
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_qX7D8dX_EfG8D6YGcKhAQQ" key="hide.computed.physical.links.filter" value="true"/>
@@ -35,22 +35,22 @@
         <description xmi:type="description_2:DiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Architecture%20Blank']"/>
         <target xmi:type="org.polarsys.capella.core.data.la:LogicalComponentPkg" href="Notrhen%20Sea%20Route.capella#0e0f06b5-237b-4584-b9f7-24895c8b8bd0"/>
       </ownedRepresentationDescriptors>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_EZBuANYDEfG8D6YGcKhAQQ" name="[LFBD] Root Logical Function" repPath="#_EY_40NYDEfG8D6YGcKhAQQ" changeId="1793553899389">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_EZBuANYDEfG8D6YGcKhAQQ" name="[LFBD] Root Logical Function" repPath="#_EY_40NYDEfG8D6YGcKhAQQ" changeId="1794103807525">
         <description xmi:type="description_2:DiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Function%20Breakdown']"/>
         <target xmi:type="org.polarsys.capella.core.data.la:LogicalFunction" href="Notrhen%20Sea%20Route.capella#7339ce98-391d-48e5-a994-deca0c8b0f61"/>
       </ownedRepresentationDescriptors>
     </ownedViews>
     <ownedViews xmi:type="viewpoint:DView" uid="_W0WIoMfzEfG7-eYFHVKRJA">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/context.odesign#//@ownedViewpoints[name='System%20Analysis']"/>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_S5NAwM0tEfGD0dEh9YnsiA" name="[CSA] Ambulance System" repPath="#_S5LyoM0tEfGD0dEh9YnsiA" changeId="1793386659054">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_S5NAwM0tEfGD0dEh9YnsiA" name="[CSA] Ambulance System" repPath="#_S5LyoM0tEfGD0dEh9YnsiA" changeId="1794068509226">
         <description xmi:type="description_2:DiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/context.odesign#//@ownedViewpoints[name='System%20Analysis']/@ownedRepresentations[name='Contextual%20System%20Actors']"/>
         <target xmi:type="org.polarsys.capella.core.data.ctx:SystemComponent" href="Notrhen%20Sea%20Route.capella#aaea3b8a-59d2-4b59-92dc-22d2c92297ef"/>
       </ownedRepresentationDescriptors>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_M9mVQM0-EfGD0dEh9YnsiA" name="[SDFB] Root System Function" repPath="#_M9j5AM0-EfGD0dEh9YnsiA" changeId="1793394635719">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_M9mVQM0-EfGD0dEh9YnsiA" name="[SDFB] Root System Function" repPath="#_M9j5AM0-EfGD0dEh9YnsiA" changeId="1793876906325">
         <description xmi:type="description_2:DiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/context.odesign#//@ownedViewpoints[name='System%20Analysis']/@ownedRepresentations[name='System%20Data%20Flow%20Blank']"/>
         <target xmi:type="org.polarsys.capella.core.data.ctx:SystemFunction" href="Notrhen%20Sea%20Route.capella#08a25497-a6ca-4be3-bf04-5b1e49b6752f"/>
       </ownedRepresentationDescriptors>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_N7dSYNSWEfG8D6YGcKhAQQ" name="[SAB] Structure" repPath="#_N7aPENSWEfG8D6YGcKhAQQ" changeId="1793395696406">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_N7dSYNSWEfG8D6YGcKhAQQ" name="[SAB] Structure" repPath="#_N7aPENSWEfG8D6YGcKhAQQ" changeId="1794101164274">
         <description xmi:type="description_2:DiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/context.odesign#//@ownedViewpoints[name='System%20Analysis']/@ownedRepresentations[name='System%20Architecture%20Blank']"/>
         <target xmi:type="org.polarsys.capella.core.data.ctx:SystemComponentPkg" href="Notrhen%20Sea%20Route.capella#c776d14c-bf98-41bf-82b4-69c22e8eea5f"/>
       </ownedRepresentationDescriptors>
@@ -61,11 +61,11 @@
     </ownedViews>
     <ownedViews xmi:type="viewpoint:DView" uid="_W3KzIMfzEfG7-eYFHVKRJA">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/oa.odesign#//@ownedViewpoints[name='Operational%20Analysis']"/>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_acLK8MfzEfG7-eYFHVKRJA" name="[OEBD] Operational Entities" repPath="#_acKj4MfzEfG7-eYFHVKRJA" changeId="1793380974352">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_acLK8MfzEfG7-eYFHVKRJA" name="[OEBD] Operational Entities" repPath="#_acKj4MfzEfG7-eYFHVKRJA" changeId="1794100551485">
         <description xmi:type="description_2:DiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/oa.odesign#//@ownedViewpoints[name='Operational%20Analysis']/@ownedRepresentations[name='Operational%20Entity%20Breakdown']"/>
         <target xmi:type="org.polarsys.capella.core.data.oa:EntityPkg" href="Notrhen%20Sea%20Route.capella#3657f22f-5618-4d68-9173-09f8c2d696e9"/>
       </ownedRepresentationDescriptors>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_KlkXQcf2EfG7-eYFHVKRJA" name="[OCB] Operational Capabilities" repPath="#_KljJIMf2EfG7-eYFHVKRJA" changeId="1792000803470">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_KlkXQcf2EfG7-eYFHVKRJA" name="[OCB] Operational Capabilities" repPath="#_KljJIMf2EfG7-eYFHVKRJA" changeId="1794069323765">
         <description xmi:type="description_2:DiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/oa.odesign#//@ownedViewpoints[name='Operational%20Analysis']/@ownedRepresentations[name='Operational%20Capabilities%20Blank']"/>
         <target xmi:type="org.polarsys.capella.core.data.oa:OperationalCapabilityPkg" href="Notrhen%20Sea%20Route.capella#96edcff5-4401-4c03-8108-5380a944374f"/>
       </ownedRepresentationDescriptors>
@@ -500,9 +500,9 @@
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_CzZQ4cf1EfG7-eYFHVKRJA" routing="Tree" jumpLinkStatus="Above" jumpLinkType="Tunnel"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_CzZQ4sf1EfG7-eYFHVKRJA" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_CzZQ48f1EfG7-eYFHVKRJA" points="[0, 2, -122, 156]$[0, -64, -122, 90]$[122, -64, 0, 90]$[122, -119, 0, 35]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_CzZQ48f1EfG7-eYFHVKRJA" points="[0, 0, 3, -35]$[0, 129, 3, 94]$[-3, 129, 0, 94]$[-3, 70, 0, 35]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_CzZ39sf1EfG7-eYFHVKRJA" id="(0.4714285714285714,0.0)"/>
-          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_CzZ398f1EfG7-eYFHVKRJA" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_CzZ398f1EfG7-eYFHVKRJA" id="(0.42857142857142855,0.5)"/>
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_DKXmcMf1EfG7-eYFHVKRJA" type="4001" element="_DKVxSMf1EfG7-eYFHVKRJA" source="_6oQbcMf0EfG7-eYFHVKRJA" target="_z3kx0Mf0EfG7-eYFHVKRJA">
           <children xmi:type="notation:Node" xmi:id="_DKYNgMf1EfG7-eYFHVKRJA" type="6001">
@@ -516,25 +516,25 @@
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_DKXmccf1EfG7-eYFHVKRJA" routing="Tree" jumpLinkStatus="Above" jumpLinkType="Tunnel"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_DKXmcsf1EfG7-eYFHVKRJA" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_DKXmc8f1EfG7-eYFHVKRJA" points="[0, 2, -1, 156]$[0, -64, -1, 90]$[1, -64, 0, 90]$[1, -119, 0, 35]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_DKXmc8f1EfG7-eYFHVKRJA" points="[0, 0, 4, -35]$[0, 129, 4, 94]$[-4, 129, 0, 94]$[-4, 70, 0, 35]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_DKYNhsf1EfG7-eYFHVKRJA" id="(0.4857142857142857,0.0)"/>
-          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_DKYNh8f1EfG7-eYFHVKRJA" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_DKYNh8f1EfG7-eYFHVKRJA" id="(0.42857142857142855,0.5)"/>
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_DgzJcMf1EfG7-eYFHVKRJA" type="4001" element="_DgwtSsf1EfG7-eYFHVKRJA" source="_Av4hAMf1EfG7-eYFHVKRJA" target="_z3kx0Mf0EfG7-eYFHVKRJA">
           <children xmi:type="notation:Node" xmi:id="_DgzJdMf1EfG7-eYFHVKRJA" type="6001">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DgzJdcf1EfG7-eYFHVKRJA" x="-5" y="-10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DgzJdcf1EfG7-eYFHVKRJA" x="-11" y="-10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_DgzJdsf1EfG7-eYFHVKRJA" type="6002">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DgzJd8f1EfG7-eYFHVKRJA" x="-1" y="10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DgzJd8f1EfG7-eYFHVKRJA" x="-2" y="10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_DgzJeMf1EfG7-eYFHVKRJA" type="6003">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DgzJecf1EfG7-eYFHVKRJA" x="-8" y="16"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DgzJecf1EfG7-eYFHVKRJA" x="-11" y="21"/>
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_DgzJccf1EfG7-eYFHVKRJA" routing="Tree" jumpLinkStatus="Above" jumpLinkType="Tunnel"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_DgzJcsf1EfG7-eYFHVKRJA" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_DgzJc8f1EfG7-eYFHVKRJA" points="[0, 2, 133, 146]$[0, -54, 133, 90]$[-133, -54, 0, 90]$[-133, -109, 0, 35]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_DgzJc8f1EfG7-eYFHVKRJA" points="[0, 2, 138, 146]$[0, -50, 138, 94]$[-138, -50, 0, 94]$[-138, -109, 0, 35]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_DgzJesf1EfG7-eYFHVKRJA" id="(0.5428571428571428,0.0)"/>
-          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_DgzJe8f1EfG7-eYFHVKRJA" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_DgzJe8f1EfG7-eYFHVKRJA" id="(0.42857142857142855,0.5)"/>
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_EwUQkMf1EfG7-eYFHVKRJA" type="4001" element="_EwSbbMf1EfG7-eYFHVKRJA" source="_S3BiAMf0EfG7-eYFHVKRJA" target="_PEDmsMf0EfG7-eYFHVKRJA">
           <children xmi:type="notation:Node" xmi:id="_EwUQlMf1EfG7-eYFHVKRJA" type="6001">
@@ -1945,7 +1945,7 @@
     <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_KlmzgMf2EfG7-eYFHVKRJA" source="DANNOTATION_CUSTOMIZATION_KEY">
       <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_Klmzgcf2EfG7-eYFHVKRJA"/>
     </ownedAnnotationEntries>
-    <ownedDiagramElements xmi:type="diagram:DNode" uid="_LaM5MMf2EfG7-eYFHVKRJA" name="Provide qualified medical care to people on ships" outgoingEdges="_11ygEMf2EfG7-eYFHVKRJA _QRMn5Mf3EfG7-eYFHVKRJA _Q-5baMf3EfG7-eYFHVKRJA _Re5xLMf3EfG7-eYFHVKRJA" width="7" height="7" resizeKind="NSEW">
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_LaM5MMf2EfG7-eYFHVKRJA" name="Provide high quality medical care to people on ships" outgoingEdges="_11ygEMf2EfG7-eYFHVKRJA _QRMn5Mf3EfG7-eYFHVKRJA _Q-5baMf3EfG7-eYFHVKRJA _Re5xLMf3EfG7-eYFHVKRJA" width="7" height="7" resizeKind="NSEW">
       <target xmi:type="org.polarsys.capella.core.data.oa:OperationalCapability" href="Notrhen%20Sea%20Route.capella#442a2164-5027-46e6-ae6d-0f93b1da6f5b"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.oa:OperationalCapability" href="Notrhen%20Sea%20Route.capella#442a2164-5027-46e6-ae6d-0f93b1da6f5b"/>
       <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
@@ -5079,17 +5079,17 @@
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_S_kuhM0tEfGD0dEh9YnsiA" type="4001" element="_S5gixM0tEfGD0dEh9YnsiA" source="_S7ZZIM0tEfGD0dEh9YnsiA" target="_S9xXsM0tEfGD0dEh9YnsiA">
           <children xmi:type="notation:Node" xmi:id="_S_kuiM0tEfGD0dEh9YnsiA" type="6001">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S_kuic0tEfGD0dEh9YnsiA" x="2" y="-2"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S_kuic0tEfGD0dEh9YnsiA" y="-10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_S_kuis0tEfGD0dEh9YnsiA" type="6002">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S_kui80tEfGD0dEh9YnsiA" x="-8" y="-2"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S_kui80tEfGD0dEh9YnsiA" y="10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_S_kujM0tEfGD0dEh9YnsiA" type="6003">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S_kujc0tEfGD0dEh9YnsiA" x="-5" y="1"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S_kujc0tEfGD0dEh9YnsiA" y="10"/>
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_S_kuhc0tEfGD0dEh9YnsiA" jumpLinkStatus="Above" jumpLinkType="Tunnel"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_S_kuhs0tEfGD0dEh9YnsiA" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_S_kuh80tEfGD0dEh9YnsiA" points="[8, -5, -235, 0]$[215, -5, -28, 0]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_S_kuh80tEfGD0dEh9YnsiA" points="[8, -5, -235, 0]$[68, -5, -175, 0]$[215, -5, -28, 0]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S_kujs0tEfGD0dEh9YnsiA" id="(0.92,0.4375)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_CXtF8NPTEfG8D6YGcKhAQQ" id="(0.5,0.5)"/>
         </edges>
@@ -5101,11 +5101,11 @@
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S_oY4s0tEfGD0dEh9YnsiA" x="2" y="10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_S_oY480tEfGD0dEh9YnsiA" type="6003">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S_oY5M0tEfGD0dEh9YnsiA" x="3" y="12"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S_oY5M0tEfGD0dEh9YnsiA" x="-95" y="12"/>
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_S_nx2c0tEfGD0dEh9YnsiA" jumpLinkStatus="Above" jumpLinkType="Tunnel"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_S_nx2s0tEfGD0dEh9YnsiA" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_S_nx280tEfGD0dEh9YnsiA" points="[-8, -1, 271, 0]$[-273, -1, 6, 0]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_S_nx280tEfGD0dEh9YnsiA" points="[-8, -1, 271, 0]$[-158, -1, 121, 0]$[-273, -1, 6, 0]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S_oY5c0tEfGD0dEh9YnsiA" id="(0.08,0.225)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S_oY5s0tEfGD0dEh9YnsiA" id="(0.8428571428571429,0.4426229508196721)"/>
         </edges>
@@ -5152,7 +5152,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/context.odesign#//@ownedViewpoints[name='System%20Analysis']/@ownedRepresentations[name='Contextual%20System%20Actors']/@defaultLayer/@nodeMappings[name='SC_System']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNode" uid="_S5WKuM0tEfGD0dEh9YnsiA" name="Marine rescue service MRCC" incomingEdges="_S5fUs80tEfGD0dEh9YnsiA" width="7" height="7" resizeKind="NSEW">
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_S5WKuM0tEfGD0dEh9YnsiA" name="MRCC" incomingEdges="_S5fUs80tEfGD0dEh9YnsiA" width="7" height="7" resizeKind="NSEW">
       <target xmi:type="org.polarsys.capella.core.data.ctx:SystemComponent" href="Notrhen%20Sea%20Route.capella#0520c024-5c76-436c-9811-63ab4e59097e"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.ctx:SystemComponent" href="Notrhen%20Sea%20Route.capella#0520c024-5c76-436c-9811-63ab4e59097e"/>
       <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
@@ -5626,6 +5626,17 @@
             <styles xmi:type="notation:ShapeStyle" xmi:id="_Sp37kc0-EfGD0dEh9YnsiA" fontName="Segoe UI" fontHeight="8"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Sp37ks0-EfGD0dEh9YnsiA" x="181" y="20" width="10" height="10"/>
           </children>
+          <children xmi:type="notation:Node" xmi:id="_OTewQNkJEfG4Q8U-0ltwsw" type="3012" element="_OTTKHNkJEfG4Q8U-0ltwsw">
+            <children xmi:type="notation:Node" xmi:id="_OTfXUNkJEfG4Q8U-0ltwsw" visible="false" type="5010">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_OTfXUdkJEfG4Q8U-0ltwsw" x="11" y="-5"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_OTmFANkJEfG4Q8U-0ltwsw" type="3005" element="_OTTxINkJEfG4Q8U-0ltwsw">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_OTmFAdkJEfG4Q8U-0ltwsw" fontName=".AppleSystemUIFont"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OTmFAtkJEfG4Q8U-0ltwsw"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_OTewQdkJEfG4Q8U-0ltwsw" fontName=".AppleSystemUIFont" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OTewQtkJEfG4Q8U-0ltwsw" x="-2" width="10" height="10"/>
+          </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_SlGwVc0-EfGD0dEh9YnsiA" fontName="Segoe UI" fontHeight="8"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SlGwVs0-EfGD0dEh9YnsiA" x="-30" y="470"/>
         </children>
@@ -5667,17 +5678,6 @@
             </children>
             <styles xmi:type="notation:ShapeStyle" xmi:id="_W0vSIdSUEfG8D6YGcKhAQQ" fontName="Segoe UI" fontHeight="8"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_W0vSItSUEfG8D6YGcKhAQQ" x="10" y="60" width="10" height="10"/>
-          </children>
-          <children xmi:type="notation:Node" xmi:id="_BLI5MNSkEfG8D6YGcKhAQQ" type="3012" element="_BKgnP9SkEfG8D6YGcKhAQQ">
-            <children xmi:type="notation:Node" xmi:id="_BLI5M9SkEfG8D6YGcKhAQQ" visible="false" type="5010">
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_BLI5NNSkEfG8D6YGcKhAQQ" x="11" y="-5"/>
-            </children>
-            <children xmi:type="notation:Node" xmi:id="_BLMjkNSkEfG8D6YGcKhAQQ" type="3005" element="_BKgnQNSkEfG8D6YGcKhAQQ">
-              <styles xmi:type="notation:ShapeStyle" xmi:id="_BLMjkdSkEfG8D6YGcKhAQQ" fontName="Segoe UI"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BLMjktSkEfG8D6YGcKhAQQ"/>
-            </children>
-            <styles xmi:type="notation:ShapeStyle" xmi:id="_BLI5MdSkEfG8D6YGcKhAQQ" fontName="Segoe UI" fontHeight="8"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BLI5MtSkEfG8D6YGcKhAQQ" x="-2" width="10" height="10"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_SlHXZM0-EfGD0dEh9YnsiA" fontName="Segoe UI" fontHeight="8"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SlHXZc0-EfGD0dEh9YnsiA" x="930" y="500"/>
@@ -6922,6 +6922,15 @@
         </ownedStyle>
         <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/context.odesign#//@ownedViewpoints[name='System%20Analysis']/@ownedRepresentations[name='System%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='SDFB_Function']/@borderedNodeMappings[name='SDFB_Pin']"/>
       </ownedBorderedNodes>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_OTTKHNkJEfG4Q8U-0ltwsw" name="FIP 2" width="1" height="1">
+        <target xmi:type="org.polarsys.capella.core.data.fa:FunctionInputPort" href="Notrhen%20Sea%20Route.capella#ba390ac5-c9a9-4bdc-9a5b-f3da8b62eaf7"/>
+        <semanticElements xmi:type="org.polarsys.capella.core.data.fa:FunctionInputPort" href="Notrhen%20Sea%20Route.capella#ba390ac5-c9a9-4bdc-9a5b-f3da8b62eaf7"/>
+        <graphicalFilters xmi:type="diagram:HideLabelFilter" uid="_OTTxItkJEfG4Q8U-0ltwsw"/>
+        <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_OTTxINkJEfG4Q8U-0ltwsw" showIcon="false" hideLabelByDefault="true" workspacePath="/org.polarsys.capella.core.sirius.analysis/description/images/FunctionInputPort.svg">
+          <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/context.odesign#//@ownedViewpoints[name='System%20Analysis']/@ownedRepresentations[name='System%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='SDFB_Function']/@borderedNodeMappings[name='SDFB_Pin']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/context.odesign#//@ownedViewpoints[name='System%20Analysis']/@ownedRepresentations[name='System%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='SDFB_Function']/@borderedNodeMappings[name='SDFB_Pin']"/>
+      </ownedBorderedNodes>
       <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
       <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
       <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -6960,15 +6969,6 @@
         <graphicalFilters xmi:type="diagram:HideLabelFilter" uid="_Wxi0NdSUEfG8D6YGcKhAQQ"/>
         <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_Wxi0M9SUEfG8D6YGcKhAQQ" showIcon="false" hideLabelByDefault="true" workspacePath="/org.polarsys.capella.core.sirius.analysis/description/images/FunctionOutputPort.svg">
           <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/context.odesign#//@ownedViewpoints[name='System%20Analysis']/@ownedRepresentations[name='System%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='SDFB_Function']/@borderedNodeMappings[name='SDFB_Pin']/@conditionnalStyles.0/@style"/>
-        </ownedStyle>
-        <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/context.odesign#//@ownedViewpoints[name='System%20Analysis']/@ownedRepresentations[name='System%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='SDFB_Function']/@borderedNodeMappings[name='SDFB_Pin']"/>
-      </ownedBorderedNodes>
-      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_BKgnP9SkEfG8D6YGcKhAQQ" name="FIP 2" width="1" height="1">
-        <target xmi:type="org.polarsys.capella.core.data.fa:FunctionInputPort" href="Notrhen%20Sea%20Route.capella#ba390ac5-c9a9-4bdc-9a5b-f3da8b62eaf7"/>
-        <semanticElements xmi:type="org.polarsys.capella.core.data.fa:FunctionInputPort" href="Notrhen%20Sea%20Route.capella#ba390ac5-c9a9-4bdc-9a5b-f3da8b62eaf7"/>
-        <graphicalFilters xmi:type="diagram:HideLabelFilter" uid="_BKhOINSkEfG8D6YGcKhAQQ"/>
-        <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_BKgnQNSkEfG8D6YGcKhAQQ" showIcon="false" hideLabelByDefault="true" workspacePath="/org.polarsys.capella.core.sirius.analysis/description/images/FunctionInputPort.svg">
-          <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/context.odesign#//@ownedViewpoints[name='System%20Analysis']/@ownedRepresentations[name='System%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='SDFB_Function']/@borderedNodeMappings[name='SDFB_Pin']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/context.odesign#//@ownedViewpoints[name='System%20Analysis']/@ownedRepresentations[name='System%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='SDFB_Function']/@borderedNodeMappings[name='SDFB_Pin']"/>
       </ownedBorderedNodes>
@@ -9506,7 +9506,7 @@
         <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/context.odesign#//@ownedViewpoints[name='System%20Analysis']/@ownedRepresentations[name='System%20Architecture%20Blank']/@defaultLayer/@containerMappings[name='System%20Actors']/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_2:ContainerMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/context.odesign#//@ownedViewpoints[name='System%20Analysis']/@ownedRepresentations[name='System%20Architecture%20Blank']/@defaultLayer/@containerMappings[name='System%20Actors']"/>
-      <ownedDiagramElements xmi:type="diagram:DNode" uid="_ZJ8uoNSXEfG8D6YGcKhAQQ" name="Recieve and treat patient" width="5" height="5" resizeKind="NSEW">
+      <ownedDiagramElements xmi:type="diagram:DNode" uid="_ZJ8uoNSXEfG8D6YGcKhAQQ" name="Receive the patient and provide the treatment" width="5" height="5" resizeKind="NSEW">
         <target xmi:type="org.polarsys.capella.core.data.ctx:SystemFunction" href="Notrhen%20Sea%20Route.capella#cb3fef64-2f6e-4ff9-ae9a-8069e948153e"/>
         <semanticElements xmi:type="org.polarsys.capella.core.data.ctx:SystemFunction" href="Notrhen%20Sea%20Route.capella#cb3fef64-2f6e-4ff9-ae9a-8069e948153e"/>
         <ownedBorderedNodes xmi:type="diagram:DNode" uid="_ZJ9VsNSXEfG8D6YGcKhAQQ" name="inpatient, medical record" incomingEdges="_5tJpS9SZEfG8D6YGcKhAQQ" width="1" height="1">
@@ -9533,7 +9533,7 @@
         <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/context.odesign#//@ownedViewpoints[name='System%20Analysis']/@ownedRepresentations[name='System%20Architecture%20Blank']/@defaultLayer/@containerMappings[name='System%20Actors']/@subNodeMappings[name='CA%20System%20Function']"/>
       </ownedDiagramElements>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_QAUGENSWEfG8D6YGcKhAQQ" name="Marine rescue service MRCC">
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_QAUGENSWEfG8D6YGcKhAQQ" name="MRCC">
       <target xmi:type="org.polarsys.capella.core.data.cs:Part" href="Notrhen%20Sea%20Route.capella#2e7cecab-5a19-430d-9df7-75c55421c6c2"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.cs:Part" href="Notrhen%20Sea%20Route.capella#2e7cecab-5a19-430d-9df7-75c55421c6c2"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.ctx:SystemComponent" href="Notrhen%20Sea%20Route.capella#0520c024-5c76-436c-9811-63ab4e59097e"/>
@@ -9541,7 +9541,7 @@
         <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/context.odesign#//@ownedViewpoints[name='System%20Analysis']/@ownedRepresentations[name='System%20Architecture%20Blank']/@defaultLayer/@containerMappings[name='System%20Actors']/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_2:ContainerMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/context.odesign#//@ownedViewpoints[name='System%20Analysis']/@ownedRepresentations[name='System%20Architecture%20Blank']/@defaultLayer/@containerMappings[name='System%20Actors']"/>
-      <ownedDiagramElements xmi:type="diagram:DNode" uid="_brxAkNSWEfG8D6YGcKhAQQ" name="Recive alert" width="5" height="5" resizeKind="NSEW">
+      <ownedDiagramElements xmi:type="diagram:DNode" uid="_brxAkNSWEfG8D6YGcKhAQQ" name="Receive alert" width="5" height="5" resizeKind="NSEW">
         <target xmi:type="org.polarsys.capella.core.data.ctx:SystemFunction" href="Notrhen%20Sea%20Route.capella#6806bff3-f2a8-4a58-b3c4-ea69af20f3ec"/>
         <semanticElements xmi:type="org.polarsys.capella.core.data.ctx:SystemFunction" href="Notrhen%20Sea%20Route.capella#6806bff3-f2a8-4a58-b3c4-ea69af20f3ec"/>
         <ownedBorderedNodes xmi:type="diagram:DNode" uid="_brxnpdSWEfG8D6YGcKhAQQ" name="inMedical alert" incomingEdges="_gebo6dSXEfG8D6YGcKhAQQ" width="1" height="1">
@@ -10233,7 +10233,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_2:EdgeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/context.odesign#//@ownedViewpoints[name='System%20Analysis']/@ownedRepresentations[name='System%20Architecture%20Blank']/@defaultLayer/@edgeMappings[name='CA%20DataFlow%20between%20Function']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_5tK3XdSZEfG8D6YGcKhAQQ" name="Responce decision" sourceNode="_brzc3dSWEfG8D6YGcKhAQQ" targetNode="_5s1gKdSZEfG8D6YGcKhAQQ" beginLabel="." endLabel=".">
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_5tK3XdSZEfG8D6YGcKhAQQ" name="Response decision" sourceNode="_brzc3dSWEfG8D6YGcKhAQQ" targetNode="_5s1gKdSZEfG8D6YGcKhAQQ" beginLabel="." endLabel=".">
       <target xmi:type="org.polarsys.capella.core.data.fa:FunctionalExchange" href="Notrhen%20Sea%20Route.capella#a8dd9fc5-7a0a-4739-8c47-7dec9062fbc7"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.fa:FunctionalExchange" href="Notrhen%20Sea%20Route.capella#a8dd9fc5-7a0a-4739-8c47-7dec9062fbc7"/>
       <ownedStyle xmi:type="diagram:EdgeStyle" uid="_5tK3XtSZEfG8D6YGcKhAQQ" targetArrow="NoDecoration" routingStyle="manhattan" centered="Both" strokeColor="9,92,46">
@@ -11425,7 +11425,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:InstanceRoleMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/common.odesign#//@ownedViewpoints[name='Common']/@ownedRepresentations[name='Component%20Exchanges%20Scenario']/@defaultLayer/@nodeMappings[name='Instancerole%20Mapping%20DF']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNode" uid="_zThq4NUsEfG8D6YGcKhAQQ" name="Marine rescue service MRCC" width="10" height="5" resizeKind="EAST_WEST">
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_zThq4NUsEfG8D6YGcKhAQQ" name="MRCC" width="10" height="5" resizeKind="EAST_WEST">
       <target xmi:type="org.polarsys.capella.core.data.interaction:InstanceRole" href="Notrhen%20Sea%20Route.capella#479ac25f-662f-4037-85ec-d951fb33c3b3"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:InstanceRole" href="Notrhen%20Sea%20Route.capella#479ac25f-662f-4037-85ec-d951fb33c3b3"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.cs:Part" href="Notrhen%20Sea%20Route.capella#2e7cecab-5a19-430d-9df7-75c55421c6c2"/>
@@ -11450,7 +11450,7 @@
           <target xmi:type="org.polarsys.capella.core.data.interaction:Execution" href="Notrhen%20Sea%20Route.capella#c8d578a5-b906-45bb-abca-9ad5a2bffe36"/>
           <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:Execution" href="Notrhen%20Sea%20Route.capella#c8d578a5-b906-45bb-abca-9ad5a2bffe36"/>
           <graphicalFilters xmi:type="diagram:AbsoluteBoundsFilter" uid="_ADAOMNUtEfG8D6YGcKhAQQ" x="225" y="201" height="57" width="10"/>
-          <ownedBorderedNodes xmi:type="diagram:DNode" uid="_9MrhUNUsEfG8D6YGcKhAQQ" name="Recive alert" width="10" height="3" resizeKind="NSEW">
+          <ownedBorderedNodes xmi:type="diagram:DNode" uid="_9MrhUNUsEfG8D6YGcKhAQQ" name="Receive alert" width="10" height="3" resizeKind="NSEW">
             <target xmi:type="org.polarsys.capella.core.data.interaction:StateFragment" href="Notrhen%20Sea%20Route.capella#13c4370c-94e9-4bf1-8563-ed15baee2af5"/>
             <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:StateFragment" href="Notrhen%20Sea%20Route.capella#13c4370c-94e9-4bf1-8563-ed15baee2af5"/>
             <semanticElements xmi:type="org.polarsys.capella.core.data.ctx:SystemFunction" href="Notrhen%20Sea%20Route.capella#6806bff3-f2a8-4a58-b3c4-ea69af20f3ec"/>
@@ -11800,7 +11800,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:BasicMessageMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/common.odesign#//@ownedViewpoints[name='Common']/@ownedRepresentations[name='Component%20Exchanges%20Scenario']/@defaultLayer/@edgeMappings[name='Basic%20message%20mapping%20DF']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_KicRTNXgEfG8D6YGcKhAQQ" name="Responce decision" sourceNode="_zTiR8dUsEfG8D6YGcKhAQQ" targetNode="_KibDI9XgEfG8D6YGcKhAQQ">
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_KicRTNXgEfG8D6YGcKhAQQ" name="Response decision" sourceNode="_zTiR8dUsEfG8D6YGcKhAQQ" targetNode="_KibDI9XgEfG8D6YGcKhAQQ">
       <target xmi:type="org.polarsys.capella.core.data.interaction:SequenceMessage" href="Notrhen%20Sea%20Route.capella#107f8128-1b47-4957-a153-de9d2d4cdbfc"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:SequenceMessage" href="Notrhen%20Sea%20Route.capella#107f8128-1b47-4957-a153-de9d2d4cdbfc"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:MessageEnd" href="Notrhen%20Sea%20Route.capella#6546c2bd-d92f-4301-9f74-8e4226e147ee"/>
@@ -12866,7 +12866,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:InstanceRoleMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/common.odesign#//@ownedViewpoints[name='Common']/@ownedRepresentations[name='Component%20Exchanges%20Scenario']/@defaultLayer/@nodeMappings[name='Instancerole%20Mapping%20DF']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNode" uid="_jyOZwNXoEfG8D6YGcKhAQQ" name="Marine rescue service MRCC" width="10" height="5" resizeKind="EAST_WEST">
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_jyOZwNXoEfG8D6YGcKhAQQ" name="MRCC" width="10" height="5" resizeKind="EAST_WEST">
       <target xmi:type="org.polarsys.capella.core.data.interaction:InstanceRole" href="Notrhen%20Sea%20Route.capella#7808757e-8e0d-4492-adf2-b67de423a143"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:InstanceRole" href="Notrhen%20Sea%20Route.capella#7808757e-8e0d-4492-adf2-b67de423a143"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.cs:Part" href="Notrhen%20Sea%20Route.capella#2e7cecab-5a19-430d-9df7-75c55421c6c2"/>
@@ -12891,7 +12891,7 @@
           <target xmi:type="org.polarsys.capella.core.data.interaction:Execution" href="Notrhen%20Sea%20Route.capella#3ab0c7ef-b4ea-4a52-9544-4b919ae72ffb"/>
           <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:Execution" href="Notrhen%20Sea%20Route.capella#3ab0c7ef-b4ea-4a52-9544-4b919ae72ffb"/>
           <graphicalFilters xmi:type="diagram:AbsoluteBoundsFilter" uid="_wXZxkNXoEfG8D6YGcKhAQQ" x="269" y="234" height="82" width="10"/>
-          <ownedBorderedNodes xmi:type="diagram:DNode" uid="_uQvAANXoEfG8D6YGcKhAQQ" name="Recive alert" width="10" height="3" resizeKind="NSEW">
+          <ownedBorderedNodes xmi:type="diagram:DNode" uid="_uQvAANXoEfG8D6YGcKhAQQ" name="Receive alert" width="10" height="3" resizeKind="NSEW">
             <target xmi:type="org.polarsys.capella.core.data.interaction:StateFragment" href="Notrhen%20Sea%20Route.capella#ae8759a2-dff5-42d8-857e-cb35965fc713"/>
             <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:StateFragment" href="Notrhen%20Sea%20Route.capella#ae8759a2-dff5-42d8-857e-cb35965fc713"/>
             <semanticElements xmi:type="org.polarsys.capella.core.data.ctx:SystemFunction" href="Notrhen%20Sea%20Route.capella#6806bff3-f2a8-4a58-b3c4-ea69af20f3ec"/>
@@ -13258,7 +13258,7 @@
           <target xmi:type="org.polarsys.capella.core.data.interaction:Execution" href="Notrhen%20Sea%20Route.capella#76d0446d-6183-4ca2-891f-be57aaf1e288"/>
           <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:Execution" href="Notrhen%20Sea%20Route.capella#76d0446d-6183-4ca2-891f-be57aaf1e288"/>
           <graphicalFilters xmi:type="diagram:AbsoluteBoundsFilter" uid="_QDkEgNXtEfG8D6YGcKhAQQ" x="996" y="1534" height="79" width="10"/>
-          <ownedBorderedNodes xmi:type="diagram:DNode" uid="_lDVNkNXuEfG8D6YGcKhAQQ" name="Recieve and treat patient" width="10" height="3" resizeKind="NSEW">
+          <ownedBorderedNodes xmi:type="diagram:DNode" uid="_lDVNkNXuEfG8D6YGcKhAQQ" name="Receive the patient and provide the treatment" width="10" height="3" resizeKind="NSEW">
             <target xmi:type="org.polarsys.capella.core.data.interaction:StateFragment" href="Notrhen%20Sea%20Route.capella#4a9db1e3-9c6a-4478-97f5-5714c310814e"/>
             <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:StateFragment" href="Notrhen%20Sea%20Route.capella#4a9db1e3-9c6a-4478-97f5-5714c310814e"/>
             <semanticElements xmi:type="org.polarsys.capella.core.data.ctx:SystemFunction" href="Notrhen%20Sea%20Route.capella#cb3fef64-2f6e-4ff9-ae9a-8069e948153e"/>
@@ -13374,7 +13374,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:BasicMessageMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/common.odesign#//@ownedViewpoints[name='Common']/@ownedRepresentations[name='Component%20Exchanges%20Scenario']/@defaultLayer/@edgeMappings[name='Basic%20message%20mapping%20DF']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DEdge" uid="__33ZbNXpEfG8D6YGcKhAQQ" name="Responce decision" sourceNode="_jyPA0dXoEfG8D6YGcKhAQQ" targetNode="__32LNtXpEfG8D6YGcKhAQQ">
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="__33ZbNXpEfG8D6YGcKhAQQ" name="Response decision" sourceNode="_jyPA0dXoEfG8D6YGcKhAQQ" targetNode="__32LNtXpEfG8D6YGcKhAQQ">
       <target xmi:type="org.polarsys.capella.core.data.interaction:SequenceMessage" href="Notrhen%20Sea%20Route.capella#89f370b2-767b-45df-bfcb-7cb90e55f759"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:SequenceMessage" href="Notrhen%20Sea%20Route.capella#89f370b2-767b-45df-bfcb-7cb90e55f759"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:MessageEnd" href="Notrhen%20Sea%20Route.capella#44c84fb3-0b4f-4350-9628-71699e6db846"/>
@@ -14681,7 +14681,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:InstanceRoleMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/common.odesign#//@ownedViewpoints[name='Common']/@ownedRepresentations[name='Component%20Exchanges%20Scenario']/@defaultLayer/@nodeMappings[name='Instancerole%20Mapping%20DF']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNode" uid="_sXhM4tXuEfG8D6YGcKhAQQ" name="Marine rescue service MRCC" width="10" height="5" resizeKind="EAST_WEST">
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_sXhM4tXuEfG8D6YGcKhAQQ" name="MRCC" width="10" height="5" resizeKind="EAST_WEST">
       <target xmi:type="org.polarsys.capella.core.data.interaction:InstanceRole" href="Notrhen%20Sea%20Route.capella#55c762d1-271a-49b1-82ef-432130e207b8"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:InstanceRole" href="Notrhen%20Sea%20Route.capella#55c762d1-271a-49b1-82ef-432130e207b8"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.cs:Part" href="Notrhen%20Sea%20Route.capella#2e7cecab-5a19-430d-9df7-75c55421c6c2"/>
@@ -14706,7 +14706,7 @@
           <target xmi:type="org.polarsys.capella.core.data.interaction:Execution" href="Notrhen%20Sea%20Route.capella#2f7d5194-8f98-4067-9683-85951b930ec0"/>
           <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:Execution" href="Notrhen%20Sea%20Route.capella#2f7d5194-8f98-4067-9683-85951b930ec0"/>
           <graphicalFilters xmi:type="diagram:AbsoluteBoundsFilter" uid="_CzNW0NXvEfG8D6YGcKhAQQ" x="239" y="223" height="69" width="10"/>
-          <ownedBorderedNodes xmi:type="diagram:DNode" uid="_-YF2YNXuEfG8D6YGcKhAQQ" name="Recive alert" width="10" height="3" resizeKind="NSEW">
+          <ownedBorderedNodes xmi:type="diagram:DNode" uid="_-YF2YNXuEfG8D6YGcKhAQQ" name="Receive alert" width="10" height="3" resizeKind="NSEW">
             <target xmi:type="org.polarsys.capella.core.data.interaction:StateFragment" href="Notrhen%20Sea%20Route.capella#132f53f9-f08f-4320-881b-97bf963b94c9"/>
             <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:StateFragment" href="Notrhen%20Sea%20Route.capella#132f53f9-f08f-4320-881b-97bf963b94c9"/>
             <semanticElements xmi:type="org.polarsys.capella.core.data.ctx:SystemFunction" href="Notrhen%20Sea%20Route.capella#6806bff3-f2a8-4a58-b3c4-ea69af20f3ec"/>
@@ -15160,7 +15160,7 @@
           <target xmi:type="org.polarsys.capella.core.data.interaction:Execution" href="Notrhen%20Sea%20Route.capella#50ae5f6c-dfeb-4c29-9853-f14e4d2d16eb"/>
           <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:Execution" href="Notrhen%20Sea%20Route.capella#50ae5f6c-dfeb-4c29-9853-f14e4d2d16eb"/>
           <graphicalFilters xmi:type="diagram:AbsoluteBoundsFilter" uid="_Z6LngNXxEfG8D6YGcKhAQQ" x="951" y="2047" height="62" width="10"/>
-          <ownedBorderedNodes xmi:type="diagram:DNode" uid="_anINENXxEfG8D6YGcKhAQQ" name="Recieve and treat patient" width="10" height="3" resizeKind="NSEW">
+          <ownedBorderedNodes xmi:type="diagram:DNode" uid="_anINENXxEfG8D6YGcKhAQQ" name="Receive the patient and provide the treatment" width="10" height="3" resizeKind="NSEW">
             <target xmi:type="org.polarsys.capella.core.data.interaction:StateFragment" href="Notrhen%20Sea%20Route.capella#e7524721-61ee-4016-87c5-c0bea0e0934e"/>
             <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:StateFragment" href="Notrhen%20Sea%20Route.capella#e7524721-61ee-4016-87c5-c0bea0e0934e"/>
             <semanticElements xmi:type="org.polarsys.capella.core.data.ctx:SystemFunction" href="Notrhen%20Sea%20Route.capella#cb3fef64-2f6e-4ff9-ae9a-8069e948153e"/>
@@ -15302,7 +15302,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:BasicMessageMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/common.odesign#//@ownedViewpoints[name='Common']/@ownedRepresentations[name='Component%20Exchanges%20Scenario']/@defaultLayer/@edgeMappings[name='Basic%20message%20mapping%20DF']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_ebsgdNXwEfG8D6YGcKhAQQ" name="Responce decision" sourceNode="_sXhM5dXuEfG8D6YGcKhAQQ" targetNode="_ebqrMNXwEfG8D6YGcKhAQQ">
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_ebsgdNXwEfG8D6YGcKhAQQ" name="Response decision" sourceNode="_sXhM5dXuEfG8D6YGcKhAQQ" targetNode="_ebqrMNXwEfG8D6YGcKhAQQ">
       <target xmi:type="org.polarsys.capella.core.data.interaction:SequenceMessage" href="Notrhen%20Sea%20Route.capella#ee8e96df-187e-4f3e-8614-c91b2a49315b"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:SequenceMessage" href="Notrhen%20Sea%20Route.capella#ee8e96df-187e-4f3e-8614-c91b2a49315b"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.interaction:MessageEnd" href="Notrhen%20Sea%20Route.capella#0b1beb7e-5e92-4b7b-a589-f9cfca85547a"/>
@@ -15627,6 +15627,72 @@
           <styles xmi:type="notation:ShapeStyle" xmi:id="_B4tDIdX_EfG8D6YGcKhAQQ" fontName="Segoe UI" fontHeight="8"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_B4tDItX_EfG8D6YGcKhAQQ" x="1088" y="410"/>
         </children>
+        <children xmi:type="notation:Node" xmi:id="_bDEYoNrHEfGwi79Md055Yg" type="2001" element="_bC-5EtrHEfGwi79Md055Yg">
+          <children xmi:type="notation:Node" xmi:id="_bDIDANrHEfGwi79Md055Yg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_bDIDAdrHEfGwi79Md055Yg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_bDJRL9rHEfGwi79Md055Yg" type="3003" element="_bC_gINrHEfGwi79Md055Yg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_bDJRMNrHEfGwi79Md055Yg" fontName=".AppleSystemUIFont"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bDJRMdrHEfGwi79Md055Yg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_bDEYodrHEfGwi79Md055Yg" fontName=".AppleSystemUIFont" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bDEYotrHEfGwi79Md055Yg" x="480" y="280"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_bDIqENrHEfGwi79Md055Yg" type="2001" element="_bDAHMdrHEfGwi79Md055Yg">
+          <children xmi:type="notation:Node" xmi:id="_bDIqE9rHEfGwi79Md055Yg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_bDIqFNrHEfGwi79Md055Yg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_bDJRMtrHEfGwi79Md055Yg" type="3003" element="_bDAHMtrHEfGwi79Md055Yg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_bDJRM9rHEfGwi79Md055Yg" fontName=".AppleSystemUIFont"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bDJRNNrHEfGwi79Md055Yg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_bDIqEdrHEfGwi79Md055Yg" fontName=".AppleSystemUIFont" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bDIqEtrHEfGwi79Md055Yg" x="480" y="380"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_bDIqFdrHEfGwi79Md055Yg" type="2001" element="_bDAHNNrHEfGwi79Md055Yg">
+          <children xmi:type="notation:Node" xmi:id="_bDIqGNrHEfGwi79Md055Yg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_bDIqGdrHEfGwi79Md055Yg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_bDJRNdrHEfGwi79Md055Yg" type="3003" element="_bDAHNdrHEfGwi79Md055Yg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_bDJRNtrHEfGwi79Md055Yg" fontName=".AppleSystemUIFont"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bDJRN9rHEfGwi79Md055Yg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_bDIqFtrHEfGwi79Md055Yg" fontName=".AppleSystemUIFont" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bDIqF9rHEfGwi79Md055Yg" x="480" y="480"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_bDJRINrHEfGwi79Md055Yg" type="2001" element="_bDAHN9rHEfGwi79Md055Yg">
+          <children xmi:type="notation:Node" xmi:id="_bDJRI9rHEfGwi79Md055Yg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_bDJRJNrHEfGwi79Md055Yg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_bDJ4MNrHEfGwi79Md055Yg" type="3003" element="_bDAHONrHEfGwi79Md055Yg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_bDJ4MdrHEfGwi79Md055Yg" fontName=".AppleSystemUIFont"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bDJ4MtrHEfGwi79Md055Yg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_bDJRIdrHEfGwi79Md055Yg" fontName=".AppleSystemUIFont" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bDJRItrHEfGwi79Md055Yg" x="480" y="580"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_bDJRJdrHEfGwi79Md055Yg" type="2001" element="_bDAHOtrHEfGwi79Md055Yg">
+          <children xmi:type="notation:Node" xmi:id="_bDJRKNrHEfGwi79Md055Yg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_bDJRKdrHEfGwi79Md055Yg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_bDJ4M9rHEfGwi79Md055Yg" type="3003" element="_bDAHO9rHEfGwi79Md055Yg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_bDJ4NNrHEfGwi79Md055Yg" fontName=".AppleSystemUIFont"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bDJ4NdrHEfGwi79Md055Yg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_bDJRJtrHEfGwi79Md055Yg" fontName=".AppleSystemUIFont" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bDJRJ9rHEfGwi79Md055Yg" x="480" y="680"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_bDJRKtrHEfGwi79Md055Yg" type="2001" element="_bDAHPdrHEfGwi79Md055Yg">
+          <children xmi:type="notation:Node" xmi:id="_bDJRLdrHEfGwi79Md055Yg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_bDJRLtrHEfGwi79Md055Yg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_bDJ4NtrHEfGwi79Md055Yg" type="3003" element="_bDAHPtrHEfGwi79Md055Yg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_bDJ4N9rHEfGwi79Md055Yg" fontName=".AppleSystemUIFont"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bDJ4ONrHEfGwi79Md055Yg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_bDJRK9rHEfGwi79Md055Yg" fontName=".AppleSystemUIFont" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bDJRLNrHEfGwi79Md055Yg" x="480" y="780"/>
+        </children>
         <styles xmi:type="notation:DiagramStyle" xmi:id="_oqGXkdX8EfG8D6YGcKhAQQ"/>
         <edges xmi:type="notation:Edge" xmi:id="_qeCaYNX8EfG8D6YGcKhAQQ" type="4001" element="_qd9h4NX8EfG8D6YGcKhAQQ" source="_qeAlMNX8EfG8D6YGcKhAQQ" target="_oq_vcNX8EfG8D6YGcKhAQQ">
           <children xmi:type="notation:Node" xmi:id="_qeCaZNX8EfG8D6YGcKhAQQ" type="6001">
@@ -15801,18 +15867,58 @@
       </ownedStyle>
       <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']"/>
     </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_bC-5EtrHEfGwi79Md055Yg" name="Hospital" width="7" height="7" resizeKind="NSEW">
+      <target xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#f6999152-1dba-41ff-9af5-f087df482184"/>
+      <semanticElements xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#f6999152-1dba-41ff-9af5-f087df482184"/>
+      <ownedStyle xmi:type="diagram:Square" uid="_bC_gINrHEfGwi79Md055Yg" borderSize="1" borderSizeComputationExpression="1" borderColor="74,74,151" labelPosition="node" width="-1" height="-1" color="198,230,255">
+        <description xmi:type="style:SquareDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']/@conditionnalStyles.4/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_bDAHMdrHEfGwi79Md055Yg" name="MRCC" width="7" height="7" resizeKind="NSEW">
+      <target xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#f2c7ed9d-0c09-4803-88d3-57af1ced51dd"/>
+      <semanticElements xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#f2c7ed9d-0c09-4803-88d3-57af1ced51dd"/>
+      <ownedStyle xmi:type="diagram:Square" uid="_bDAHMtrHEfGwi79Md055Yg" borderSize="1" borderSizeComputationExpression="1" borderColor="74,74,151" labelPosition="node" width="-1" height="-1" color="198,230,255">
+        <description xmi:type="style:SquareDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']/@conditionnalStyles.4/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_bDAHNNrHEfGwi79Md055Yg" name="Nuclear icebreaker" width="7" height="7" resizeKind="NSEW">
+      <target xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#42348e85-a1ea-41cb-a652-6863183318b8"/>
+      <semanticElements xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#42348e85-a1ea-41cb-a652-6863183318b8"/>
+      <ownedStyle xmi:type="diagram:Square" uid="_bDAHNdrHEfGwi79Md055Yg" borderSize="1" borderSizeComputationExpression="1" borderColor="74,74,151" labelPosition="node" width="-1" height="-1" color="198,230,255">
+        <description xmi:type="style:SquareDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']/@conditionnalStyles.4/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_bDAHN9rHEfGwi79Md055Yg" name="Rosaviation" width="7" height="7" resizeKind="NSEW">
+      <target xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#b6d4a71d-05f3-4356-b4d0-d5619264bbfc"/>
+      <semanticElements xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#b6d4a71d-05f3-4356-b4d0-d5619264bbfc"/>
+      <ownedStyle xmi:type="diagram:Square" uid="_bDAHONrHEfGwi79Md055Yg" borderSize="1" borderSizeComputationExpression="1" borderColor="74,74,151" labelPosition="node" width="-1" height="-1" color="198,230,255">
+        <description xmi:type="style:SquareDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']/@conditionnalStyles.4/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_bDAHOtrHEfGwi79Md055Yg" name="Ship" width="7" height="7" resizeKind="NSEW">
+      <target xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#4425da4f-f29c-47b5-bf2c-682735e71df3"/>
+      <semanticElements xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#4425da4f-f29c-47b5-bf2c-682735e71df3"/>
+      <ownedStyle xmi:type="diagram:Square" uid="_bDAHO9rHEfGwi79Md055Yg" borderSize="1" borderSizeComputationExpression="1" borderColor="74,74,151" labelPosition="node" width="-1" height="-1" color="198,230,255">
+        <description xmi:type="style:SquareDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']/@conditionnalStyles.4/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_bDAHPdrHEfGwi79Md055Yg" name="Roshydromet" width="7" height="7" resizeKind="NSEW">
+      <target xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#2f0c16ee-55c3-49db-a277-3dbca44f8b06"/>
+      <semanticElements xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#2f0c16ee-55c3-49db-a277-3dbca44f8b06"/>
+      <ownedStyle xmi:type="diagram:Square" uid="_bDAHPtrHEfGwi79Md055Yg" borderSize="1" borderSizeComputationExpression="1" borderColor="74,74,151" labelPosition="node" width="-1" height="-1" color="198,230,255">
+        <description xmi:type="style:SquareDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']/@conditionnalStyles.4/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']"/>
+    </ownedDiagramElements>
     <ownedDiagramElements xmi:type="diagram:DNode" uid="_qd5QcNX8EfG8D6YGcKhAQQ" name="LC-01 Telemedicine centre" outgoingEdges="_qd9h4NX8EfG8D6YGcKhAQQ" incomingEdges="_J243LNX-EfG8D6YGcKhAQQ _WvStBNX-EfG8D6YGcKhAQQ" width="7" height="7" resizeKind="NSEW">
       <target xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#1545153a-24e8-4189-94d3-4b687d7c9802"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#1545153a-24e8-4189-94d3-4b687d7c9802"/>
       <ownedStyle xmi:type="diagram:Square" uid="_qd53gNX8EfG8D6YGcKhAQQ" borderSize="1" borderSizeComputationExpression="1" borderColor="74,74,151" labelPosition="node" width="-1" height="-1" color="150,177,218">
-        <description xmi:type="style:SquareDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']/@conditionnalStyles.5/@style"/>
-      </ownedStyle>
-      <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']"/>
-    </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNode" uid="_wJStANX8EfG8D6YGcKhAQQ" name="LC-02 Flight operations centre" outgoingEdges="_wJXlhNX8EfG8D6YGcKhAQQ" width="7" height="7" resizeKind="NSEW">
-      <target xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#15d21ed3-ba3e-4f85-afda-fabfd552403d"/>
-      <semanticElements xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#15d21ed3-ba3e-4f85-afda-fabfd552403d"/>
-      <ownedStyle xmi:type="diagram:Square" uid="_wJTUENX8EfG8D6YGcKhAQQ" borderSize="1" borderSizeComputationExpression="1" borderColor="74,74,151" labelPosition="node" width="-1" height="-1" color="150,177,218">
         <description xmi:type="style:SquareDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']/@conditionnalStyles.5/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']"/>
@@ -15829,6 +15935,14 @@
       <target xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#d4bfd03a-8248-47a2-a5d0-9ff7e1c7792f"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#d4bfd03a-8248-47a2-a5d0-9ff7e1c7792f"/>
       <ownedStyle xmi:type="diagram:Square" uid="_3g4loNX8EfG8D6YGcKhAQQ" borderSize="1" borderSizeComputationExpression="1" borderColor="74,74,151" labelPosition="node" width="-1" height="-1" color="150,177,218">
+        <description xmi:type="style:SquareDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']/@conditionnalStyles.5/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_wJStANX8EfG8D6YGcKhAQQ" name="LC-02 Flight operations centre" outgoingEdges="_wJXlhNX8EfG8D6YGcKhAQQ" width="7" height="7" resizeKind="NSEW">
+      <target xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#15d21ed3-ba3e-4f85-afda-fabfd552403d"/>
+      <semanticElements xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#15d21ed3-ba3e-4f85-afda-fabfd552403d"/>
+      <ownedStyle xmi:type="diagram:Square" uid="_wJTUENX8EfG8D6YGcKhAQQ" borderSize="1" borderSizeComputationExpression="1" borderColor="74,74,151" labelPosition="node" width="-1" height="-1" color="150,177,218">
         <description xmi:type="style:SquareDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']/@conditionnalStyles.5/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Component%20Breakdown']/@defaultLayer/@nodeMappings[name='LCB_LogicalComponent']"/>
@@ -19337,7 +19451,7 @@
         <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Architecture%20Blank']/@defaultLayer/@containerMappings[name='LAB%20Logical%20Component']/@subNodeMappings[name='LAB%20Logical%20Function']"/>
       </ownedDiagramElements>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_CNdVsNYAEfG8D6YGcKhAQQ" name="Marine rescue service MRCC">
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_CNdVsNYAEfG8D6YGcKhAQQ" name="MRCC">
       <target xmi:type="org.polarsys.capella.core.data.cs:Part" href="Notrhen%20Sea%20Route.capella#4557d48d-cc9c-4b3c-9a2a-c48c835ed59c"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.cs:Part" href="Notrhen%20Sea%20Route.capella#4557d48d-cc9c-4b3c-9a2a-c48c835ed59c"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Notrhen%20Sea%20Route.capella#f2c7ed9d-0c09-4803-88d3-57af1ced51dd"/>
@@ -19372,7 +19486,7 @@
         <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Architecture%20Blank']/@defaultLayer/@containerMappings[name='LAB%20Logical%20Component']/@conditionnalStyles.0/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_2:ContainerMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Architecture%20Blank']/@defaultLayer/@containerMappings[name='LAB%20Logical%20Component']"/>
-      <ownedDiagramElements xmi:type="diagram:DNode" uid="_7QOoYNYAEfG8D6YGcKhAQQ" name="Recive alert" width="5" height="5" resizeKind="NSEW">
+      <ownedDiagramElements xmi:type="diagram:DNode" uid="_7QOoYNYAEfG8D6YGcKhAQQ" name="Receive alert" width="5" height="5" resizeKind="NSEW">
         <target xmi:type="org.polarsys.capella.core.data.la:LogicalFunction" href="Notrhen%20Sea%20Route.capella#f47991ce-7c14-40c6-a550-431a0677d707"/>
         <semanticElements xmi:type="org.polarsys.capella.core.data.la:LogicalFunction" href="Notrhen%20Sea%20Route.capella#f47991ce-7c14-40c6-a550-431a0677d707"/>
         <ownedBorderedNodes xmi:type="diagram:DNode" uid="_i_pDQNYJEfG8D6YGcKhAQQ" name="FOP 2" outgoingEdges="_i_qRYdYJEfG8D6YGcKhAQQ" width="1" height="1">
@@ -20974,7 +21088,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_2:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Function%20Breakdown']/@defaultLayer/@nodeMappings[name='LFB_LogicalFunction']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNode" uid="_EZJCw9YDEfG8D6YGcKhAQQ" name="Recive alert" width="7" height="7" resizeKind="NSEW">
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_EZJCw9YDEfG8D6YGcKhAQQ" name="Receive alert" width="7" height="7" resizeKind="NSEW">
       <target xmi:type="org.polarsys.capella.core.data.la:LogicalFunction" href="Notrhen%20Sea%20Route.capella#f47991ce-7c14-40c6-a550-431a0677d707"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.la:LogicalFunction" href="Notrhen%20Sea%20Route.capella#f47991ce-7c14-40c6-a550-431a0677d707"/>
       <ownedStyle xmi:type="diagram:Square" uid="_EZJCxNYDEfG8D6YGcKhAQQ" borderSize="1" borderSizeComputationExpression="1" borderColor="39,76,114" labelPosition="node" width="-1" height="-1" color="198,230,255">

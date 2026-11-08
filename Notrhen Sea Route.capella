@@ -171,7 +171,7 @@
       <ownedAbstractCapabilityPkg xsi:type="org.polarsys.capella.core.data.oa:OperationalCapabilityPkg"
           id="96edcff5-4401-4c03-8108-5380a944374f" name="Operational Capabilities">
         <ownedOperationalCapabilities xsi:type="org.polarsys.capella.core.data.oa:OperationalCapability"
-            id="442a2164-5027-46e6-ae6d-0f93b1da6f5b" name="Provide qualified medical care to people on ships">
+            id="442a2164-5027-46e6-ae6d-0f93b1da6f5b" name="Provide high quality medical care to people on ships">
           <includes xsi:type="org.polarsys.capella.core.data.interaction:AbstractCapabilityInclude"
               id="4827a3d8-5efc-4191-978b-a13995ad855b" included="#2be15bcb-60d5-4f41-b904-8d67bf6d558c"/>
           <includes xsi:type="org.polarsys.capella.core.data.interaction:AbstractCapabilityInclude"
@@ -471,7 +471,7 @@
                 sourceElement="#f7b4b768-94f5-4774-9f8a-5da77f745e4c"/>
           </ownedFunctions>
           <ownedFunctions xsi:type="org.polarsys.capella.core.data.ctx:SystemFunction"
-              id="6806bff3-f2a8-4a58-b3c4-ea69af20f3ec" name="Recive alert">
+              id="6806bff3-f2a8-4a58-b3c4-ea69af20f3ec" name="Receive alert">
             <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
                 id="c33c87fe-d443-4c6b-9358-45629fb2c4e4" name="inMedical alert"/>
             <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
@@ -635,7 +635,7 @@
                 sourceElement="#82f99460-8695-486b-9766-c834f2caa66a"/>
           </ownedFunctions>
           <ownedFunctions xsi:type="org.polarsys.capella.core.data.ctx:SystemFunction"
-              id="cb3fef64-2f6e-4ff9-ae9a-8069e948153e" name="Recieve and treat patient">
+              id="cb3fef64-2f6e-4ff9-ae9a-8069e948153e" name="Receive the patient and provide the treatment">
             <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
                 id="2b8105a0-44c0-4f15-bf65-0285d2bde32a" name="inpatient, medical record"/>
             <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
@@ -836,7 +836,7 @@
                 sourceElement="#9cfdafeb-4b72-49c6-a599-05d1b36b921f"/>
           </ownedFunctionalExchanges>
           <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
-              id="a8dd9fc5-7a0a-4739-8c47-7dec9062fbc7" name="Responce decision" target="#4dda1f12-cd42-4147-b125-ae0c9e5bfa4b"
+              id="a8dd9fc5-7a0a-4739-8c47-7dec9062fbc7" name="Response decision" target="#4dda1f12-cd42-4147-b125-ae0c9e5bfa4b"
               source="#b925836c-70a0-48d4-a047-c2e8f866bd4c">
             <ownedFunctionalExchangeRealizations xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchangeRealization"
                 id="69f1e58d-e614-4ef2-88c4-870f3df66978" targetElement="#dd262494-c2dc-44a9-8656-0c4365f43bbe"
@@ -913,8 +913,7 @@
             <ownedInstanceRoles xsi:type="org.polarsys.capella.core.data.interaction:InstanceRole"
                 id="831a00e6-ba98-4398-84cd-f3a00f7f4e4b" name="Ship" representedInstance="#d0539c63-4ea9-42c5-bc35-97bed4e17513"/>
             <ownedInstanceRoles xsi:type="org.polarsys.capella.core.data.interaction:InstanceRole"
-                id="479ac25f-662f-4037-85ec-d951fb33c3b3" name="Marine rescue service MRCC"
-                representedInstance="#2e7cecab-5a19-430d-9df7-75c55421c6c2"/>
+                id="479ac25f-662f-4037-85ec-d951fb33c3b3" name="MRCC" representedInstance="#2e7cecab-5a19-430d-9df7-75c55421c6c2"/>
             <ownedInstanceRoles xsi:type="org.polarsys.capella.core.data.interaction:InstanceRole"
                 id="f041cf70-4786-4293-9262-5b0a6efdd965" name="Ambulance System"
                 representedInstance="#861bf053-fc6f-4c9c-87a1-9d162786344f"/>
@@ -948,7 +947,7 @@
                 kind="ASYNCHRONOUS_CALL" sendingEnd="#1f52999f-58c6-4b21-b358-7f395116a7b5"
                 receivingEnd="#db30576c-bf6b-4e19-b7bf-a8657b657358"/>
             <ownedMessages xsi:type="org.polarsys.capella.core.data.interaction:SequenceMessage"
-                id="107f8128-1b47-4957-a153-de9d2d4cdbfc" name="Responce decision"
+                id="107f8128-1b47-4957-a153-de9d2d4cdbfc" name="Response decision"
                 kind="ASYNCHRONOUS_CALL" sendingEnd="#b16486a7-d114-42d1-94e3-bd34dd6f0f45"
                 receivingEnd="#6546c2bd-d92f-4301-9f74-8e4226e147ee"/>
             <ownedMessages xsi:type="org.polarsys.capella.core.data.interaction:SequenceMessage"
@@ -1335,8 +1334,7 @@
             <ownedInstanceRoles xsi:type="org.polarsys.capella.core.data.interaction:InstanceRole"
                 id="6bc5238f-74bb-46b7-95f9-5c7e24fb54b0" name="Ship" representedInstance="#d0539c63-4ea9-42c5-bc35-97bed4e17513"/>
             <ownedInstanceRoles xsi:type="org.polarsys.capella.core.data.interaction:InstanceRole"
-                id="7808757e-8e0d-4492-adf2-b67de423a143" name="Marine rescue service MRCC"
-                representedInstance="#2e7cecab-5a19-430d-9df7-75c55421c6c2"/>
+                id="7808757e-8e0d-4492-adf2-b67de423a143" name="MRCC" representedInstance="#2e7cecab-5a19-430d-9df7-75c55421c6c2"/>
             <ownedInstanceRoles xsi:type="org.polarsys.capella.core.data.interaction:InstanceRole"
                 id="33a722cb-8dcb-4bbe-bbde-5d7c0b741a8f" name="Ambulance System"
                 representedInstance="#861bf053-fc6f-4c9c-87a1-9d162786344f"/>
@@ -1371,7 +1369,7 @@
                 kind="ASYNCHRONOUS_CALL" sendingEnd="#08072bda-4be7-4f1e-b949-baf02049ce5f"
                 receivingEnd="#facb3869-7ac2-408f-bade-f2f9a598e181"/>
             <ownedMessages xsi:type="org.polarsys.capella.core.data.interaction:SequenceMessage"
-                id="89f370b2-767b-45df-bfcb-7cb90e55f759" name="Responce decision"
+                id="89f370b2-767b-45df-bfcb-7cb90e55f759" name="Response decision"
                 kind="ASYNCHRONOUS_CALL" sendingEnd="#b64a946c-8064-4636-b56c-a5b4295eb547"
                 receivingEnd="#44c84fb3-0b4f-4350-9628-71699e6db846"/>
             <ownedMessages xsi:type="org.polarsys.capella.core.data.interaction:SequenceMessage"
@@ -1772,8 +1770,9 @@
                 id="76d0446d-6183-4ca2-891f-be57aaf1e288" start="#06b9162b-e3c5-40cc-bda5-eac91002a0e2"
                 finish="#b2f85bcb-b9e5-4da6-877d-3acf1d974f7e"/>
             <ownedTimeLapses xsi:type="org.polarsys.capella.core.data.interaction:StateFragment"
-                id="4a9db1e3-9c6a-4478-97f5-5714c310814e" start="#a79ef1ef-c88b-4ceb-873f-cec3e193e1a4"
-                finish="#766d7d30-c767-47ac-b5b5-89f26c8e9a5f" relatedAbstractFunction="#cb3fef64-2f6e-4ff9-ae9a-8069e948153e"/>
+                id="4a9db1e3-9c6a-4478-97f5-5714c310814e" name="Receive the patient and provide the treatment"
+                start="#a79ef1ef-c88b-4ceb-873f-cec3e193e1a4" finish="#766d7d30-c767-47ac-b5b5-89f26c8e9a5f"
+                relatedAbstractFunction="#cb3fef64-2f6e-4ff9-ae9a-8069e948153e"/>
             <ownedEvents xsi:type="org.polarsys.capella.core.data.interaction:EventSentOperation"
                 id="33411168-5104-461c-92cc-f7d42de19fea" operation="#c146fe25-9cf7-4ddb-b3c3-dd19e2d1a742"/>
             <ownedEvents xsi:type="org.polarsys.capella.core.data.interaction:EventReceiptOperation"
@@ -1918,8 +1917,7 @@
             <ownedInstanceRoles xsi:type="org.polarsys.capella.core.data.interaction:InstanceRole"
                 id="0355adc2-a642-4fa7-bba8-3a2299598c61" name="Ship" representedInstance="#d0539c63-4ea9-42c5-bc35-97bed4e17513"/>
             <ownedInstanceRoles xsi:type="org.polarsys.capella.core.data.interaction:InstanceRole"
-                id="55c762d1-271a-49b1-82ef-432130e207b8" name="Marine rescue service MRCC"
-                representedInstance="#2e7cecab-5a19-430d-9df7-75c55421c6c2"/>
+                id="55c762d1-271a-49b1-82ef-432130e207b8" name="MRCC" representedInstance="#2e7cecab-5a19-430d-9df7-75c55421c6c2"/>
             <ownedInstanceRoles xsi:type="org.polarsys.capella.core.data.interaction:InstanceRole"
                 id="60a5fe1c-572a-40d7-a88b-6d32e67aa01a" name="Ambulance System"
                 representedInstance="#861bf053-fc6f-4c9c-87a1-9d162786344f"/>
@@ -1964,7 +1962,7 @@
                 kind="ASYNCHRONOUS_CALL" sendingEnd="#eae8e5ca-db7d-4564-8ec5-a5e2242f44b7"
                 receivingEnd="#545d1434-a77d-4170-bcde-afb736ca5378"/>
             <ownedMessages xsi:type="org.polarsys.capella.core.data.interaction:SequenceMessage"
-                id="ee8e96df-187e-4f3e-8614-c91b2a49315b" name="Responce decision"
+                id="ee8e96df-187e-4f3e-8614-c91b2a49315b" name="Response decision"
                 kind="ASYNCHRONOUS_CALL" sendingEnd="#abde5843-3cfc-4855-b9bd-8c67989b6391"
                 receivingEnd="#0b1beb7e-5e92-4b7b-a589-f9cfca85547a"/>
             <ownedMessages xsi:type="org.polarsys.capella.core.data.interaction:SequenceMessage"
@@ -2725,7 +2723,7 @@
         <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="193d0977-4ac1-444b-88b1-ffb57a91043a"
             name="Hospital" abstractType="#8b58f292-5c0f-49fb-a4c8-b086f36efec1"/>
         <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="2e7cecab-5a19-430d-9df7-75c55421c6c2"
-            name="Marine rescue service MRCC" abstractType="#0520c024-5c76-436c-9811-63ab4e59097e"/>
+            name="MRCC" abstractType="#0520c024-5c76-436c-9811-63ab4e59097e"/>
         <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="1d215e7b-6595-41d2-91e6-44405952966a"
             name="Nuclear icebreaker" abstractType="#9b3d06ff-d66b-4465-85b9-ccee6ecddfb4"/>
         <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="b0a946f8-07c3-428c-8e94-735c31440138"
@@ -2773,8 +2771,7 @@
               sourceElement="#8b58f292-5c0f-49fb-a4c8-b086f36efec1"/>
         </ownedSystemComponents>
         <ownedSystemComponents xsi:type="org.polarsys.capella.core.data.ctx:SystemComponent"
-            id="0520c024-5c76-436c-9811-63ab4e59097e" name="Marine rescue service MRCC"
-            actor="true">
+            id="0520c024-5c76-436c-9811-63ab4e59097e" name="MRCC" actor="true">
           <ownedFunctionalAllocation xsi:type="org.polarsys.capella.core.data.fa:ComponentFunctionalAllocation"
               id="37fc0cbb-2320-484a-a65d-6c5ffb363c8c" targetElement="#6806bff3-f2a8-4a58-b3c4-ea69af20f3ec"
               sourceElement="#0520c024-5c76-436c-9811-63ab4e59097e"/>
@@ -2923,7 +2920,7 @@
                 source="#1831100e-a2ff-4b77-8665-4ebb434ee8bd"/>
           </ownedFunctions>
           <ownedFunctions xsi:type="org.polarsys.capella.core.data.la:LogicalFunction"
-              id="f47991ce-7c14-40c6-a550-431a0677d707" name="Recive alert">
+              id="f47991ce-7c14-40c6-a550-431a0677d707" name="Receive alert">
             <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
                 id="a7d861df-8e3f-4082-a042-dd8b3905407b" name="FOP 2"/>
             <ownedFunctionRealizations xsi:type="org.polarsys.capella.core.data.fa:FunctionRealization"
@@ -3546,7 +3543,7 @@
         <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="98d3343b-8229-4c7e-a196-ce2965285131"
             name="Hospital" abstractType="#f6999152-1dba-41ff-9af5-f087df482184"/>
         <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="4557d48d-cc9c-4b3c-9a2a-c48c835ed59c"
-            name="Marine rescue service MRCC" abstractType="#f2c7ed9d-0c09-4803-88d3-57af1ced51dd"/>
+            name="MRCC" abstractType="#f2c7ed9d-0c09-4803-88d3-57af1ced51dd"/>
         <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="69b45360-5342-4140-abf3-9d14f6c58b4a"
             name="Nuclear icebreaker" abstractType="#42348e85-a1ea-41cb-a652-6863183318b8"/>
         <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="893479cf-b138-4ae1-a58a-4737416bcd97"
@@ -3811,8 +3808,7 @@
               sourceElement="#f6999152-1dba-41ff-9af5-f087df482184"/>
         </ownedLogicalComponents>
         <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
-            id="f2c7ed9d-0c09-4803-88d3-57af1ced51dd" name="Marine rescue service MRCC"
-            actor="true">
+            id="f2c7ed9d-0c09-4803-88d3-57af1ced51dd" name="MRCC" actor="true">
           <ownedFunctionalAllocation xsi:type="org.polarsys.capella.core.data.fa:ComponentFunctionalAllocation"
               id="d770a0cf-1bf4-48d1-a8e3-e966ccaf91fb" targetElement="#f47991ce-7c14-40c6-a550-431a0677d707"
               sourceElement="#f2c7ed9d-0c09-4803-88d3-57af1ced51dd"/>
