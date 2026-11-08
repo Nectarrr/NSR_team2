@@ -54,4 +54,4 @@
 
 
 
-Overall, the system is set to satisfy 39 stakeholders' requirements.
+Overall, the system is set to satisfy 36 stakeholders' requirements.
